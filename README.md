@@ -4,6 +4,14 @@ Download the extension from here https://chrome.google.com/webstore/detail/ears-
 
 In my opinion, this is one awesome extension and provides a good control over various DSP parameters which one can leverage to enhance the audio listening experience.
 
+## Concat Script
+Install nodejs and run the following command to get the concatenated presets present in the `presets`
+directory
+
+```
+npm run concat
+```
+
 
 ## Contributing
 Please feel free to contribute via Pull Requests. Just create a JSON file under the `presets/` directory.

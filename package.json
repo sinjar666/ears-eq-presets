@@ -1,0 +1,20 @@
+{
+  "name": "ears-eq-presets",
+  "version": "1.0.0",
+  "description": "Presets for Ears EQ extension",
+  "main": "concat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "concat": "NODE_PATH=. node concat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinjar666/ears-eq-presets.git"
+  },
+  "author": "Srijan Mukherjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinjar666/ears-eq-presets/issues"
+  },
+  "homepage": "https://github.com/sinjar666/ears-eq-presets#readme"
+}
