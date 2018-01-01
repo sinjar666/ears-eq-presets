@@ -12,6 +12,8 @@ directory
 npm run concat
 ```
 
+Paste the one liner JSON into the PRESETS key in local storage for the Chrome extension and you should see the presets show up.
+
 
 ## Contributing
 Please feel free to contribute via Pull Requests. Just create a JSON file under the `presets/` directory.
